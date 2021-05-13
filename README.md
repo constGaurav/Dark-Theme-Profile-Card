@@ -1,9 +1,9 @@
 # Dark-Theme-Profile-Card
 
-# Light Theme
+### Light Theme
 
 ![alt text](https://github.com/mrgauravchaudhary/Dark-Theme-Profile-Card/blob/master/Images/light.png)
 
-# Dark Theme
+### Dark Theme
 
 ![alt text](https://github.com/mrgauravchaudhary/Dark-Theme-Profile-Card/blob/master/Images/dark.png)
